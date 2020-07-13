@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently working on my final year Engineering project
+- 🔭 I’m currently working on my Final year Engineering Project
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Laravel / PHP / Javascript / Unity
-- 📫 How to reach me: [Instgram](https://instagram.com/psp.jpg) OR [Twitter](https://twitter.com/pragalbha77) OR [LinkedIn](https://www.linkedin.com/in/pragalbha-patil-610541172/)
+- 📫 How to reach me: [Instgram](https://instagram.com/psp.jpg) or [Twitter](https://twitter.com/pragalbha77) or [LinkedIn](https://www.linkedin.com/in/pragalbha-patil-610541172/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: God is real, unless declared integer.
 
