@@ -1,4 +1,4 @@
-# Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
+# Hey there<img src="https://github.com/Pragalbha-Patil/Pragalbha-Patil/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
 I love to make projects that help our society in some way & also contributing to open source! <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragalbha-patil" alt="pragalbha-patil" /> </p> 
