@@ -7,7 +7,7 @@ I love to make projects that help our society in some way & also contributing to
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/pragalbha77) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pragalbha-patil-610541172/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/psp.jpg/)
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact.pragalbha77@gmail.com)
+[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pragalbha77@gmail.com)
 
 ###### Languages
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
