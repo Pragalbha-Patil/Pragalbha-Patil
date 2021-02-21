@@ -28,6 +28,6 @@ I love to make projects that help our society in some way & also contributing to
 
 ### My GitHub Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pragalbha-patil&show_icons=true&theme=tokyonight&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragalbha-patil&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=pragalbha-patil&show_icons=true&theme=tokyonight&line_height=40&count_private=true&include_all_commits=true">
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragalbha-patil&theme=tokyonight">-->
 </p>
