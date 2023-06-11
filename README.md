@@ -25,9 +25,3 @@ I love to make projects that help our society in some way & also contributing to
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
-
-### My GitHub Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=pragalbha-patil&show_icons=true&theme=tokyonight&line_height=40&count_private=true&include_all_commits=true">
-    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragalbha-patil&theme=tokyonight">-->
-</p>
