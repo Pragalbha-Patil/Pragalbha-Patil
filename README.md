@@ -1,5 +1,5 @@
 # Hey there<img src="https://github.com/Pragalbha-Patil/Pragalbha-Patil/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
-I love to make projects that help our society in some way & also contributing to open source! <br>
+Senior Software Engineer at ![GoComet](http://gocomet.com/)<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragalbha-patil" alt="pragalbha-patil" /> </p> 
 
@@ -10,18 +10,16 @@ I love to make projects that help our society in some way & also contributing to
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:pragalbha77@gmail.com)
 
 ###### Languages
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
 
 ###### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat-square&logo=firebase)
-![Colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google_colab)
 
 ###### Tech Stacks
 
+![Ruby on Rails](https://img.shields.io/badge/-ROR-red?style=flat-square&logo=Ruby)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
