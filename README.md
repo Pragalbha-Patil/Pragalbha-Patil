@@ -1,6 +1,5 @@
 # Hey there<img src="https://github.com/Pragalbha-Patil/Pragalbha-Patil/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
-Senior Software Engineer at ![GoComet](http://gocomet.com/)<br>
-
+Senior Software Engineer at [GoComet](https://www.gocomet.com)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragalbha-patil" alt="pragalbha-patil" /> </p> 
 
 #### Connect with me on - 
@@ -11,8 +10,8 @@ Senior Software Engineer at ![GoComet](http://gocomet.com/)<br>
 
 ###### Languages
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=oracle)
+![Javascript](https://img.shields.io/badge/-Javascript-red?style=flat-square&logo=Javascript)
 
 ###### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
