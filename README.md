@@ -22,3 +22,6 @@ Senior Software Engineer at [GoComet](https://www.gocomet.com)<br>
 ![Ruby on Rails](https://img.shields.io/badge/-ROR-red?style=flat-square&logo=Ruby)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+
+# Hobbies
+[Playing chess](https://lichess.org/yiVsoV6L/black#39)
