@@ -1,5 +1,5 @@
 # Hey there<img src="https://github.com/Pragalbha-Patil/Pragalbha-Patil/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
-Senior Software Engineer at [NASDAQ](https://www.nasdaq.com/)<br>
+Senior Software Engineer at [NASDAQ](https://www.nasdaq.com/). Avid Gamer and Game developer.<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragalbha-patil" alt="pragalbha-patil" /> </p> 
 
 #### Connect on - 
