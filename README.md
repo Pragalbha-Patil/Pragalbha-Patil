@@ -1,11 +1,10 @@
 # Hey there<img src="https://github.com/Pragalbha-Patil/Pragalbha-Patil/blob/master/wave.gif" width="30px"><br>I am Pragalbha Patil.
-SWE at [NASDAQ](https://www.nasdaq.com/). Avid Gamer and Game developer.<br>
+SWE at [NASDAQ](https://www.nasdaq.com/). Avid Gamer and [Game developer](https://pragal.fun/).<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragalbha-patil" alt="pragalbha-patil" /> </p> 
 
 #### Connect on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pragalbha-patil-610541172/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/psp.jpg/)
-[<img src = "https://img.shields.io/twitter/url">](https://pragalbhapatil.com)
 
 ###### Languages
 ![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby)
